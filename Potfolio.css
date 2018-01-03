@@ -1,0 +1,51 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+header {
+    background-color: black;
+    opacity: 50%;
+    height: 150px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #36a9e1;
+    padding: 10 px
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    color: #36a9e1;
+    
+
+}
+nav {
+    font-family: 'Montserrat', sans-serif;
+   
+}
+h1 {
+     font-family: 'Montserrat', sans-serif;
+    color: #36a9e1;   
+    padding: top 10px;
+}
+#jumbotron{
+      background-color: black;
+    opacity: 0.7;
+}
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+}
+li{
+    font-family: 'Montserrat', sans-serif;
+    color: #36a9e1;
+    
+}
+a {
+     font-family: 'Montserrat', sans-serif;
+    color: #36a9e1;
+}
